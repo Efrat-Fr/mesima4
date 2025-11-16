@@ -1,1 +1,2 @@
 this is txt page in branch f2
+add some text
